@@ -1,2 +1,2 @@
 # test
-learning how to push notebooks in guthub and save versions
+learning how to push notebooks in github and save versions
